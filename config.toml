@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "1edfer"
+baseURL = "https:\/\/234rwe.wer.rr"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
